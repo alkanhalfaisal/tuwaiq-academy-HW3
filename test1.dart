@@ -12,7 +12,7 @@ List<Map<String,String?>>  student= [{'name':'Faisal','age':'20','id':'111','hob
 {'name':'Khalid','age':'21','id':'112','hobby':'Football'},
 {'name':'Nawaf','age':'20','id':'113','hobby':null}
 ];
-List<String> hobbies = ['Football','reading','Fishing','Cycling']
+List<String> hobbies = ['Football','reading','Fishing','Cycling'];
 main(){
   print(student[1]['hobby']);
 }
