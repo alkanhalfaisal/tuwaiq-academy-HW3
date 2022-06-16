@@ -1,6 +1,6 @@
 # tuwaiq-academy-HW3
-stander input and outpu
-==
+**stander input and output**
+
 
 It is a way to communicate between the user and the program 
 there are three input and output connections
